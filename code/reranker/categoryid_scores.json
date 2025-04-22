@@ -1,0 +1,70 @@
+{
+  "1": {
+    "most_frequent_label": "suitable",
+    "probability_score": 0.5180505415162455
+  },
+  "2": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.8913043478260869
+  },
+  "10": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.8357487922705314
+  },
+  "15": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.6956521739130435
+  },
+  "17": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.8809523809523809
+  },
+  "19": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.7419354838709677
+  },
+  "20": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.45751633986928103
+  },
+  "22": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.5135135135135135
+  },
+  "23": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.4876543209876543
+  },
+  "24": {
+    "most_frequent_label": "suitable",
+    "probability_score": 0.38311688311688313
+  },
+  "25": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.8636363636363636
+  },
+  "26": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.7111111111111111
+  },
+  "27": {
+    "most_frequent_label": "suitable",
+    "probability_score": 0.5324074074074074
+  },
+  "28": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.9333333333333333
+  },
+  "29": {
+    "most_frequent_label": "irrelevant",
+    "probability_score": 0.8095238095238095
+  },
+  "43": {
+    "most_frequent_label": "suitable",
+    "probability_score": 0.7142857142857143
+  },
+  "44": {
+    "most_frequent_label": "restricted",
+    "probability_score": 1.0
+  }
+}
