@@ -11,7 +11,7 @@ This repository contains the code and supporting materials for my master's thesi
 **Author:** J.J.P. de Water
 **Institution:** TU Delft  
 **Date:** 2024  
-**Repository link:** [TU Delft Repository](https://repository.tudelft.nl/record/uuid:51cb02cc-0483-43f9-9d11-4289e5de3fd7)
+**Repository link:** [TU Delft Repository](https://resolver.tudelft.nl/uuid:51cb02cc-0483-43f9-9d11-4289e5de3fd7)
 
 ---
 
